@@ -32,3 +32,6 @@ The dashboard was built using Power BI and visualizes key performance indicators
 3. DAX & Power Query → Data cleaning & transformation
 
 📷 Dashboard Preview:
+
+<img width="1364" height="747" alt="Dahsboard" src="https://github.com/user-attachments/assets/b93f9e51-faaf-4199-a2bd-85f027d26589" />
+
