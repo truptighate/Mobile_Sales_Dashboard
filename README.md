@@ -35,3 +35,16 @@ The dashboard was built using Power BI and visualizes key performance indicators
 
 <img width="1364" height="747" alt="Dahsboard" src="https://github.com/user-attachments/assets/b93f9e51-faaf-4199-a2bd-85f027d26589" />
 
+🚀 How to Use:
+
+1. Clone the repository:
+    git clone https://github.com/your-username/mobile-sales-dashboard.git
+2. Open the .pbix file in Power BI Desktop.
+3. Explore the interactive dashboard with filters for Mobile Model, Payment Method, and Brand.
+
+💡 Future Improvements: 
+- Add predictive analytics (e.g., forecast future sales).
+-Include customer demographics for deeper insights.
+-Build a web app version for broader accessibility.
+
+
